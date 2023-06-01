@@ -47,7 +47,6 @@ p {
 
 a {
   color: inherit;
-  font-style: italic;
 }
 a:hover, a:active {
   color: var(--oc-green-5);
